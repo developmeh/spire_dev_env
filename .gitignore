@@ -1,0 +1,5 @@
+.direnv
+server/datastore.sqlite3
+server/journal.pem
+server/keys.json
+server.log
